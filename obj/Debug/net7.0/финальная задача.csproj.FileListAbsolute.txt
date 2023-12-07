@@ -1,0 +1,14 @@
+D:\Документы\geek\финальная задача\bin\Debug\net7.0\финальная задача.exe
+D:\Документы\geek\финальная задача\bin\Debug\net7.0\финальная задача.deps.json
+D:\Документы\geek\финальная задача\bin\Debug\net7.0\финальная задача.runtimeconfig.json
+D:\Документы\geek\финальная задача\bin\Debug\net7.0\финальная задача.dll
+D:\Документы\geek\финальная задача\bin\Debug\net7.0\финальная задача.pdb
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\финальная задача.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\финальная задача.AssemblyInfoInputs.cache
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\финальная задача.AssemblyInfo.cs
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\финальная задача.csproj.CoreCompileInputs.cache
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\финальная задача.dll
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\refint\финальная задача.dll
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\финальная задача.pdb
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\финальная задача.genruntimeconfig.cache
+D:\Документы\geek\финальная задача\obj\Debug\net7.0\ref\финальная задача.dll
