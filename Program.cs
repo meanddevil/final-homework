@@ -57,7 +57,7 @@ void Print_newArray(string[] array)
  string[] UserWrite = UserWant("Введите длину массива:");
  Print_Array(UserWrite);
  string[] Array_forPrint =  New_Array(UserWrite);
-Print_newArray(Array_forPrint);
+ Print_newArray(Array_forPrint);
 
 
 
