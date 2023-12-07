@@ -26,15 +26,11 @@ void Print_Array(string[] array)
 
 string[] New_Array(string[] array)
 {
-    //string [] new_array = new string [] {};
     List<string> new_arr = new List<string>  {};
-   // int count = 0;
     for(int i=0; i < array.Length; i++)
     {
         if(array[i].Length <= 3)
         {
-            //new_array[count] = array[i];
-            //count =+ 1;
             new_arr.Add(array[i]);
         }
     }
